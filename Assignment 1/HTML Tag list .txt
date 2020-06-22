@@ -1,0 +1,53 @@
+1. Complede HTML Tag
+=====================
+1. html
+2. head
+3. title
+4. body
+5. div
+6. a
+7. ul
+8. li
+9. p
+10. h2
+11. i
+12. h3
+13. h4
+
+2. Uncomplede HTML Tag
+======================
+1. span
+2. button
+3. nav
+4. section
+5. img
+6. hl
+7. form
+8. footer
+9. script
+
+3. Complede HTML Attribute
+==========================
+1. href
+2. id
+3. title
+4. type
+
+4. Uncomplede HTMLL Attribute
+=============================
+1. lang
+2. charset
+3. http-equiv
+4. content
+5. name
+6. rell
+7. class 
+8. src
+9. alt
+10. role
+11. action
+12. mathod 
+13. placeholder
+14. required
+15. velue
+
